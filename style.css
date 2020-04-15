@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+
+body{
+    font-size: 30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
 h1{
-    @import url('https://fonts.googleapis.com/css?family=Bitter|Girassol|Libre+Baskerville|Oswald|Poppins|Quicksand|Roboto+Slab&display=swap');
+    font-family: 'Merriweather', serif;
+    font-size: 50;
 }
